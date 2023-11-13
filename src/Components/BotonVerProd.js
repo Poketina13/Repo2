@@ -1,5 +1,5 @@
 
-const ButtonProd = () => {
+const ButtonVerProd = () => {
     return (
       <>
       <button>Ver Productos</button>
@@ -29,4 +29,4 @@ const ButtonProd = () => {
     )
   }
   
-  export default ButtonProd
+  export default ButtonVerProd
